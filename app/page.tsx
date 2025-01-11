@@ -84,8 +84,8 @@ export default function Home() {
           <div className="container text-center">
             <h2 className="text-3xl font-bold mb-6">Join the Movement</h2>
             <p className="text-xl mb-8">
-              Whether you're a researcher, organization, or technologist, your
-              contribution can make a difference.
+              Whether you&apos;re a researcher, organization, or technologist,
+              your contribution can make a difference.
             </p>
             <div className="flex justify-center space-x-4">
               <Button variant="secondary">For Researchers</Button>
