@@ -1,6 +1,5 @@
 import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
-import { Button } from '@/components/ui/button';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -82,7 +81,6 @@ export default function AboutPage() {
           technologist, or simply passionate about digital inclusion, there are
           many ways to contribute to our mission of connecting the last billion.
         </p>
-        <Button size="lg">Join Our Digital Inclusion Efforts</Button>
       </main>
       <Footer />
     </div>
